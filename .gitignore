@@ -1,0 +1,17 @@
+## Dependicies
+node_modules
+app/components
+
+## temp
+.tmp
+
+## Log
+npm-debug.log
+
+## Intellij
+Personal_Business.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/watcherTasks.xml
+.idea/dynamic.xml
+.idea/*
